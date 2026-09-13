@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nelson Solomon 👋
 
-<!--
-**akposnelly1/akposnelly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Web Developer | HTML • CSS • JavaScript
 
-Here are some ideas to get you started:
+I'm a self-taught Junior Web Developer based in Abuja, Nigeria, focused on building responsive and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- Git & GitHub
+
+### 🚀 Featured Project
+
+**Boots & Dreams — Football Community Website**
+
+A responsive football community website built with HTML, CSS and JavaScript.
+
+🌐 [View Live Website](https://akposnelly1.github.io/portfolio-website/)
+
+💻 [View Project on GitHub](https://github.com/akposnelly1/portfolio-website)
+
+### 🎯 Currently
+
+- Building responsive websites
+- Improving my JavaScript skills
+- Looking for junior developer and internship opportunities
+
+### 📫 Contact
+
+📧 nelsonsolomon081@gmail.com
+📍 Abuja, Nigeria
